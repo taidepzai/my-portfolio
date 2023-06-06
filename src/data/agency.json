@@ -1,0 +1,311 @@
+{
+  "header": {
+    "title": "Trương Nguyễn Tấn Tài",
+    "subtitle": "A Full-stack Developer And Product owner",
+    "srcImage": "images/me.jpg",
+    "button": {
+      "label": "Find Out More",
+      "icon": "fa fa-search",
+      "targetSection": "about"
+    }
+  },
+  "navbar": {
+    "brand": "<span class='text-primary'>My</span> Portfolio",
+    "srcLogo": "images/agency-logo-small.png",
+    "menuOptions": [
+      {
+        "id": "about",
+        "label": "About",
+        "icon": "fa-solid fa-file"
+      },
+      {
+        "id": "services",
+        "label": "Services",
+        "icon": "fa-solid fa-wrench"
+      },
+      {
+        "id": "portfolio",
+        "label": "Portfolio",
+        "icon": "fa-solid fa-camera"
+      }
+    ]
+  },
+  "about": {
+    "id": "about",
+    "title": "<span class='text-primary'>About</span> me",
+    "subtitle": "Get to know more about me!",
+    "content": {
+      "image": "https://vuejs-tailwindcss-portfolio.netlify.app/img/developer.d30886eb.svg",
+      "paragraphs": [
+        "Hello, I'm Tai. I'm 27 years old and I have been working with code for 4 years.",
+        "My dream is to build a company where everyone can unleash their full potential and work together to make a lot of money , and a company specializing in Espost because I really like Espost.",
+        "I completed my 4-year university course in peace, but that didn't diminish my passion for coding. I am more inclined towards system design and analysis rather than coding because I have a tendency for abstract thinking.",
+        "If you are looking for a reliable and passionate technology partner to collaborate on projects, I would love to hear from you. Please feel free to contact me so that we can discuss and build great ideas together."
+      ]
+    },
+    "button": {
+      "label": "Download Now!",
+      "icon": "fa-solid fa-download",
+      "href": "https://github.com/ryanbalieiro/foxy-template"
+    }
+  },
+  "services": {
+    "id": "services",
+    "title": "My <span class='text-primary'>Experience</span>",
+    "subtitle": "This section can be used to describe what you offer!",
+    "items": [
+      {
+        "title": "Frontend VueJS",
+        "icon": "fa-brands fa-vuejs",
+        "description": "Im working 2.5 year with vue Js"
+      },
+      {
+        "title": "Responsive Design",
+        "icon": "fa-solid fa-laptop",
+        "description": "I can design responsive interfaces according to requirements. with 1 year HTML and css , javascript"
+      },
+      {
+        "title": "Backend PHP",
+        "icon": "fa-brands fa-php",
+        "description": "I have been working with PHP for 3 years, writing RESTful APIs for mobile and web applications using a custom framework that is similar to Laravel."
+      },
+      {
+        "title": "Backend nodeJs",
+        "icon": "fa-brands fa-node-js",
+        "description": "With Node.js, I have worked on 1-2 projects primarily involving sending push notifications to mobile apps ."
+      },
+      {
+        "title": "Design database",
+        "icon": "fa-solid fa-database",
+        "description": "I can design databases using MySQL and MongoDB. I have 3 years of experience working with MySQL and 1 year of experience with MongoDB."
+      },
+      {
+        "title": "Product onwer",
+        "icon": "fa-brands fa-product-hunt",
+        "description": "With 1.5 years of experience, I really enjoy this job as it helps me develop my management thinking skills."
+      }
+    ]
+  },
+  "portfolio": {
+    "id": "portfolio",
+    "title": "Project <span class='text-primary'>Portfolio</span>",
+    "subtitle": "Get to know my some projects!",
+    "projects": [
+      {
+        "title": "Appcloud",
+        "category": "Business management products",
+        "srcImage_bd": "images/project/appcloud/appcloud.png",
+        "srcImage": [
+          "images/project/appcloud/appcloud.png",
+          "images/project/appcloud/appcloud1.png",
+          "images/project/appcloud/appcloud2.png"
+        ],
+        "tags": [
+          "Bussines",
+          "Production",
+          "Webview"
+        ],
+        "description": [
+          "Appcloud is a project under the umbrella of NewSoft company. The project is built with the purpose of helping businesses manage and grow rapidly by digitizing specific data in a dedicated environment.",
+          "Appcloud uses technologies: ",
+          "Frontend : microservice frontend , desktop frontend like window , vuejs , HTML , Csss and javascript",
+          "Backend : Nodejs for notifycation, Php for resfullAPI , Amw for storing and retrieving data",
+          "My position inside project:",
+          "PRODUCT MANAGER AND FULL-STACK DEVELOPER",
+          "In charge of exchanging, designing interfaces and functions according to customer's requirements ",
+          "Design web interface on demand using vuejs",
+          "Building microservices system using website using vuejs as the core",
+          "Building backend system microservice using php core and nodejs ",
+          "Design database signature",
+          "Reference Domain:  https://id.appcloud.vn"
+        ]
+      },
+      {
+        "title": "Tcdrink",
+        "category": "Mobile-APP & Statup & Auto-machine",
+        "srcImage_bd": "images/project/tcdrink/tcdrink3.webp",
+        "srcImage": [
+          "images/project/tcdrink/tcdrink4.webp",
+          "images/project/tcdrink/tcdrink1.webp",
+          "images/project/tcdrink/tcdrink2.jpg"
+        ],
+        "tags": [
+          "Mobile-APP",
+          "Statup",
+          "Auto-machine"
+        ],
+        "description": [
+          "Tcdrink is a collaborative project between the Tcdrink group and NewSoft. The project focuses on developing automated self-service bubble tea vending machines with mobile app payment integration.",
+          "Tcdrink uses technologies: ",
+          "Mobile-app : Android and Ios ",
+          "Frontend : using frontend vuejs , HTML , Csss and javascript",
+          "Backend : Nodejs for notifycation, Php for resfullAPI mobile , Amw for storing and retrieving data",
+          "My position inside project:",
+          "PROJECT MANAGER AND BACKEND DEVELOPER AND BA ",
+          "In charge of communicating with customers to come up with the right process as well as work progress in each week  ",
+          "Writing api for mobile using PHP core",
+          "Monitoring progress, taking main responsibility in each version ",
+          "Setting up sever (database mysql) , mongodb) and backend system ( Php )  ",
+          "Build a CRM website system ( superadmin ) by ( vuejs ) store customer data",
+          "Reference Domain:  appstore (TC Drink)"
+        ]
+      },
+      {
+        "title": "V-power",
+        "category": "Mobile-APP , Statup , Backup charger",
+        "srcImage_bd": "images/project/vpower/vpower.jpeg",
+        "srcImage": [
+          "images/project/vpower/vpower1.webp",
+          "images/project/vpower/vpower3.webp"
+        ],
+        "tags": [
+          "Mobile-APP",
+          "Statup",
+          "Backup charger"
+        ],
+        "description": [
+          "V-Power is a collaborative project between V-Power Group and NewSoft aimed at developing rental power bank machines. Users can pay for hourly battery rentals and return the power bank at designated local machine points.",
+          "V-power uses technologies: ",
+          "Mobile-app : Android and Ios ",
+          "Frontend : using frontend vuejs , HTML , Csss and javascript",
+          "Backend : Nodejs for notifycation, Php for resfullAPI mobile ",
+          "My position inside project:",
+          "BACKEND DEVELOPER ",
+          "Reinstall battery core information via company's software using nodejs sever (server using nodejs)",
+          "Build a CRM system (superadmin) to save customer data information by system (php server and mysql database)"
+        ]
+      },
+      {
+        "title": "Face-AI",
+        "category": "Machine-learning , Bussiness , Solution",
+        "srcImage_bd": "images/project/faceai/faceai.png",
+        "srcImage": [
+          "images/project/faceai/faceai1.jpg",
+          "images/project/faceai/faceai2.jpg",
+          "images/project/faceai/faceai2.jpg"
+        ],
+        "tags": [
+          "Machine-learning",
+          "Bussiness",
+          "Solution"
+        ],
+        "description": [
+          "Face-AI is a product under NewSoft, and it is an automated facial recognition attendance system integrated with the AppCloud management system.",
+          "Face-AI uses technologies: ",
+          "Face-machine:",
+          "Frontend : using frontend vuejs , HTML , Csss and javascript",
+          "Backend : Nodejs for notifycation, Php for resfullAPI mobile ",
+          "My position inside project:",
+          "BACKEND DEVELOPER ",
+          "Building CRM website system (superadmin) user interface (vuejs) storage server (database mysql, mongoDB) and backend (php core)"
+        ]
+      }
+    ]
+  },
+  "team": {
+    "id": "team",
+    "title": "Our <span class='text-primary'>Team</span>",
+    "subtitle": "Meet our amazing crew!",
+    "members": [
+      {
+        "name": "Jonathan Moore",
+        "srcAvatar": "images/avatars/person-1.png",
+        "role": "CEO",
+        "quote": "With over 20 years of experience in international development, I've dedicated my career to creating sustainable solutions for communities in need."
+      },
+      {
+        "name": "Alicia Cole",
+        "srcAvatar": "images/avatars/person-2.png",
+        "role": "Marketing Analist",
+        "quote": "With my expertise in market research and consumer behavior, I help businesses make strategic decisions that drive growth and enhance customer satisfaction."
+      },
+      {
+        "name": "Sofia Kondakova",
+        "srcAvatar": "images/avatars/person-3.png",
+        "role": "Lead Developer",
+        "quote": "With a proven track record of creating complex software systems, I bring a wealth of technical expertise to the table."
+      }
+    ]
+  },
+  "clients": {
+    "id": "reviews",
+    "title": "Client <span class='text-primary'>Reviews</span>",
+    "subtitle": "What people say about us!",
+    "testimonials": [
+      {
+        "organization": "Spotify",
+        "srcAvatar": "images/clients/client-spotify.svg",
+        "message": "I am absolutely blown away by the Vue3 website template! The minimalist design is simply stunning, and it's incredibly easy to customize to fit my needs. Plus, it loads super fast, which is crucial for my business. I highly recommend this template!",
+        "staffMember": "John Lee – Engineer"
+      },
+      {
+        "organization": "Voloco",
+        "srcAvatar": "images/clients/client-voloco.svg",
+        "message": "I can't say enough good things about this website template. As someone with no coding experience, I was able to create a professional-looking website in no time. The responsiveness is top-notch, and the open-source nature of the code means I can tweak it to my heart's content. This template is a game-changer!",
+        "staffMember": "Any Heather – HR Lead"
+      },
+      {
+        "organization": "Microsoft",
+        "srcAvatar": "images/clients/client-microsoft.svg",
+        "message": "This is hands down the best website template I've ever used. The lightweight codebase makes for a lightning-fast site, and the fully customizable nature allowed me to create a unique and engaging experience for my users. I highly recommend this template to anyone looking for a sleek, modern, and easy-to-use website solution.",
+        "staffMember": "Bill Gates – CEO"
+      }
+    ]
+  },
+  "contact": {
+    "id": "contact",
+    "title": "Contact Us",
+    "subtitle": "Don't hesitate to reach us out!",
+    "placeholders": {
+      "name": "Your Name *",
+      "email": "Your Email *",
+      "subject": "Subject *",
+      "message": "Message *"
+    },
+    "button": {
+      "label": "Send Message",
+      "icon": "fa-solid fa-envelope me-2"
+    }
+  },
+  "footer": {
+    "location": {
+      "title": "Location",
+      "address": "999 Vue Developer's Avenue – Building 4A, Suite 32 <br> Cupertino – California"
+    },
+    "links": {
+      "title": "Connect With me",
+      "items": [
+        {
+          "icon": "fa-brands fa-twitter",
+          "href": "https://twitter.com"
+        },
+        {
+          "icon": "fa-brands fa-facebook",
+          "href": "https://facebook.com"
+        },
+        {
+          "icon": "fa-brands fa-linkedin",
+          "href": "https://linkedin.com"
+        },
+        {
+          "icon": "fa-brands fa-spotify",
+          "href": "https://spotify.com"
+        }
+      ]
+    },
+    "otherLinks": {
+      "title": "Other Links",
+      "items": [
+        {
+          "label": "Privacy Policy",
+          "href": "#"
+        },
+        {
+          "label": "Terms Of Use",
+          "href": "#"
+        }
+      ]
+    },
+    "copyright": "Copyright © TRUONG NGUYEN TAN TAI 2022"
+  }
+}
